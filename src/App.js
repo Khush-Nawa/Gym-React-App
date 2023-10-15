@@ -11,8 +11,8 @@ function App() {
       <Router>
       <Navbar/>
       <Routes>        
-          <Route path="/" element={<Home />} />
-          <Route path="/Contact" element={<Contact />} />        
+          <Route path="/Gym-React-App/" element={<Home />} />
+          <Route path="/Gym-React-App/Contact" element={<Contact />} />        
       </Routes> 
       <Footer/>   
    </Router>
